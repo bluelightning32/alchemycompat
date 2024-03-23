@@ -1,0 +1,13 @@
+{
+	"type": "content",
+	"name": "Alchemy Compatibility",
+	"modid": "alchemycompat",
+	"version": "1.0.0",
+	
+	"description" : "Updated Wildcraft compatibilty for the Alchemy mod",
+	"authors": [ "bluelightning32" ],
+	
+	"dependencies": {
+		"game": "1.19.4"
+	}
+}
